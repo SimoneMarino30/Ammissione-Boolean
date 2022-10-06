@@ -1,0 +1,78 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  color: white;
+  font-family: calibri;
+}
+
+.container{
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 2%;
+  width: 800px;
+  margin-left: 350px;
+  margin-top: 25px;
+}
+
+.intestazione, h1{
+  text-align:center;
+  color: lime;
+}
+
+.logo{
+  width: 200px;
+  margin-top: 100px;
+}
+
+.bottoni{
+  display: inline-block;
+ background:lime;
+ border:0px;
+ padding:10px;
+ width: 750px;
+}
+
+ul{
+list-style: square;
+}
+
+li{
+  font-size: 25px;
+}
+
+
+div.via {
+  margin-left: -15px;
+  font-size: 15px;
+}
+
+span.carica {
+  margin-left: -15px;
+  font-size: 15px;
+}
+
+.progress-bar1{
+  background-color: gold;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 5px;
+    width: 230px;
+    margin-left: -15px;
+}
+
+.progress-bar2{
+  background-color: lime;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 5px;
+    width: 400px;
+    margin-left: -15px;
+}
+
+.progress-bar3{
+  background-color: red;
+    padding: 10px;
+    margin: 0px;
+    border-radius: 5px;
+    width: 100px;
+    margin-left: -15px;
+}
